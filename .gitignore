@@ -1,2 +1,5 @@
 .DS_Store
 non-mandatory-tasks/quantvision-quantization-segmentation/QuantVision_dataset.zip
+mandatory-tasks/shopee-product-matching/Part_B/local_minilm
+mandatory-tasks/shopee-product-matching/shopee-product-matching
+mandatory-tasks/seq2seq-grounded-dialogue-generation/dataset
