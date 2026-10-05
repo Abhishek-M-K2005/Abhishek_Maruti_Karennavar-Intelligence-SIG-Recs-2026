@@ -15,7 +15,7 @@
 5. Baselines - a retrieval-based reply picker, or an ungrounded language-model-only generator, to show the full model actually uses the document meaningfully.
 6. Evaluation - BLEU/ROUGE against reference replies, plus qualitative analysis: topical consistency, degradation on heavily code-mixed vs mostly-English turns.
 
-**Dataset:** CMU Hinglish DoG (Document Grounded Conversations) `https://hugging face.co/datasets/festvox/cmu_hinglish_dog`
+**Dataset:** CMU Hinglish DoG (Document Grounded Conversations) `https://huggingface.co/datasets/festvox/cmu_hinglish_dog`
 - Real two-person chat sessions discussing a topic grounded in a Wikipedia document
 - Each turn given in both English and Hinglish (`hi_en`) form
 - Includes conversation structure (turn order, speaker ID), document indices, session metadata
