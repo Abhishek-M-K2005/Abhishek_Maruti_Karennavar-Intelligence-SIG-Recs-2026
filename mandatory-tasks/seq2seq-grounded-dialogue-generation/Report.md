@@ -1,0 +1,4 @@
+# Seq2Seq
+1. I had theoretical understanding of the seq2seq models. but, had not implemented it as task earlier. So, this exercise helped me a lot.
+2. In the first task and second task the problem was huge dataset. It was not easily trainable on my computer. It stayed running for hours but, in vain. I tried to do it in colab with gpu, but, then also, it was taking hours together. So, I used just a fraction of dataset. I have got very low bleu score for my implementations.
+3. In the third task, I did not implement the mentioned dataset. I had not seen the dataset in the readme and used AI and wrote the code by myself for history-document retrieval method. (The 3rd task is kind of mess.).
